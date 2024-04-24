@@ -5,7 +5,7 @@ It's a desktop application to convert from dollars to bolivars and vice versa, u
 ![program-window](program-window.png)
 
 # Instructions for Windows
-- Download the 64 Bit version of [NONE]()
+- Download the 64 Bit version of [Tu Cambio BCV 64BIT.zip](https://github.com/AntonioJG92/Tu-Cambio-BCV/raw/main/Tu%20Cambio%20BCV%2064BIT.zip)
 - Download the 32 Bit version of [NONE]()
 - Unzip the file NONE.zip wherever you want.
 - Run the exe file.
