@@ -1,6 +1,6 @@
 ## Tu Cambio BCV
 
-It is a desktop application to convert from dollars to bolivars and vice versa, using the rate of the central bank of Venezuela, applying web scraping.
+It's a desktop application to convert from dollars to bolivars and vice versa, using the rate of the central bank of Venezuela, applying web scraping.
 
 ![program-window](program-window.png)
 
